@@ -1,0 +1,8 @@
+WIDTH = 1200
+HEIGHT = 800
+
+HRES = 120 #TODO horizontal
+HALFVRES = 100 #TODO vertical / 2
+
+MOD = HRES / 60
+POSX, POSY, ROT = 0, 0, 0
